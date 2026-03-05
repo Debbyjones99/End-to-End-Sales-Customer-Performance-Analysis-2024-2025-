@@ -132,7 +132,7 @@ Implement loyalty programs, personalized engagement, or recognition initiatives 
 4. Introduce Performance-Based Incentives
 Align internal user incentives with revenue targets, customer acquisition, and retention goals to motivate balanced business growth.
 
-What This Project Demonstrates
+## What This Project Demonstrates
 -	End-to-end Business Intelligence project execution
 -	Data modeling using a star schema
 -	Advanced DAX calculations (ranking, cumulative revenue, targets, LTV)
