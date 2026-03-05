@@ -29,6 +29,9 @@ The analysis focuses on identifying business growth patterns, performance declin
 ### Executive Dashboard
 This dashboard provides a high-level overview of total business performance across June 2024 – June 2025.
 
+<img width="591" height="333" alt="Execuative_dashboard" src="https://github.com/user-attachments/assets/78e58181-8640-4f1c-a989-0d94b1917fe8" />
+
+ 
 Key Metrics
 - Total Revenue: ₦112.7M
 - Total Orders: 45K
