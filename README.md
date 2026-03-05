@@ -54,7 +54,7 @@ This indicates performance slowdown in 2025 despite strong retention.
 ### Customer Dashboard
 Customer value distribution, segmentation, and geographic contribution.
 
-<img width="595" height="331" alt="Customer_dashboard" src="https://github.com/user-attachments/assets/ed49886c-2441-4f18-89c4-e634fc0a0d61" />
+<img width="668" height="372" alt="Customer_dashboard - Copy" src="https://github.com/user-attachments/assets/7f884bc2-6676-4173-bc39-4f966baf3994" />
 
 
 Key Insights
