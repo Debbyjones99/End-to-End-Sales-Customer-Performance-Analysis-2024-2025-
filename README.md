@@ -24,6 +24,8 @@ The analysis focuses on identifying business growth patterns, performance declin
 - Customer Segmentation
 - Retention Logic
 
+# Dashboard Overview
+
 ## Executive Dashboard
 This dashboard provides a high-level overview of total business performance across June 2024 – June 2025.
 
