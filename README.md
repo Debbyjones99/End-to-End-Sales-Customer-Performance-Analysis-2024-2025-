@@ -97,7 +97,7 @@ Performance tracking can inform incentive optimization.
 
 ### Retention Dashboard
 
-<img width="587" height="329" alt="New-eturning-Customers_dashboard" src="https://github.com/user-attachments/assets/f99fa34f-64fe-4153-8524-0e5fb9b46fb6" />
+<img width="664" height="373" alt="new-returning customers dsahboard" src="https://github.com/user-attachments/assets/31250f9b-9a88-4921-9229-b5327a9685d5" />
 
 
 Insights
