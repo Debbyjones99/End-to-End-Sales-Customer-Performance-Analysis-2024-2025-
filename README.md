@@ -6,8 +6,8 @@ This project analyzes two years of retail sales data (June 2024 – June 2025) t
 The analysis focuses on identifying business growth patterns, performance decline causes, and revenue concentration risks.
 
 # Business Objectives
-	•	Identify primary revenue drivers
-	•	Analyze customer value distribution
+- Identify primary revenue drivers
+-	Analyze customer value distribution
 	•	Evaluate product contribution using Pareto analysis
 	•	Assess internal user performance
 	•	Measure customer retention vs acquisition
