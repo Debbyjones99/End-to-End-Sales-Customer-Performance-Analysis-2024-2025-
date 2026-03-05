@@ -1,4 +1,5 @@
 # End-to-End Sales & Customer Performance Analysis (2024–2025)
+This project analyzes retail sales data using Power BI to identify revenue drivers, customer value distribution, product performance, and internal user impact on business growth.
 
 ## Project Summary
 This project analyzes two years of retail sales data (June 2024 – June 2025) to uncover revenue drivers, customer behavior, product contribution, internal performance, and retention trends using Power BI.
