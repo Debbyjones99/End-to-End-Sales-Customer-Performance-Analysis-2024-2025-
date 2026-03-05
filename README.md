@@ -83,8 +83,8 @@ Key Insights
 Revenue concentration risk exists at product level.
 
 ### User Dashboard
+<img width="667" height="371" alt="user_dashboard" src="https://github.com/user-attachments/assets/efdc6139-d15d-4c5a-88d1-0c54289c6760" />
 
-<img width="590" height="329" alt="Users_dashboard" src="https://github.com/user-attachments/assets/3fa35697-d801-4601-8283-a23d1b2cf2e1" />
 
 
 Key Insights
