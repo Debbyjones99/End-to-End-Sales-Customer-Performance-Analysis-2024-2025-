@@ -72,8 +72,8 @@ Year Insight
 ### Product Dashboard
 Product revenue contribution and performance against targets.
 
-![Uploading Product_dashboard.PNG…]()
-/>
+<img width="668" height="376" alt="Product_dashboard" src="https://github.com/user-attachments/assets/88d7b970-5049-4919-8467-e36c965ebde3" />
+
 
 Key Insights
 - Devon Kings Oil was the top revenue product.
