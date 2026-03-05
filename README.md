@@ -167,5 +167,5 @@ Customer ID was therefore used as the primary identifier to ensure accurate reve
 
 Open to Data Analyst opportunities.
 
-- Email:deborahjonah06@gmail.com
-- LinkedIn:https://www.linkedin.com/in/deborah-jonah-220210327
+- Email: deborahjonah06@gmail.com
+- LinkedIn: https://www.linkedin.com/in/deborah-jonah-220210327
