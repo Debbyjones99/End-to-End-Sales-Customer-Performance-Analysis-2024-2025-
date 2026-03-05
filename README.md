@@ -46,8 +46,8 @@ The analysis focuses on identifying business growth patterns, performance declin
 
 ### Executive Dashboard
 This dashboard provides a high-level overview of total business performance across June 2024 – June 2025.
+<img width="662" height="372" alt="Executive_dashboard" src="https://github.com/user-attachments/assets/35b0eb45-2530-471b-abcc-d41af5cbf115" />
 
-<img width="670" height="375" alt="Executive_dashboard" src="https://github.com/user-attachments/assets/d8a856f4-8c44-4d6e-b53d-6fffca1a3663" />
 
  
 Key Metrics
@@ -103,7 +103,8 @@ Key Insights
 Revenue concentration risk exists at product level.
 
 ### User Analysis
-<img width="667" height="371" alt="user_dashboard" src="https://github.com/user-attachments/assets/efdc6139-d15d-4c5a-88d1-0c54289c6760" />
+<img width="658" height="372" alt="user_dashboard" src="https://github.com/user-attachments/assets/7e710d1e-da57-49f0-9a00-05678e89d613" />
+
 
 
 
