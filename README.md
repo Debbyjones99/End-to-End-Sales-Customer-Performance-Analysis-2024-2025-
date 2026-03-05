@@ -72,7 +72,8 @@ This indicates performance slowdown in 2025 despite strong retention.
 ### Customer Analysis
 Customer value distribution, segmentation, and geographic contribution.
 
-<img width="668" height="372" alt="Customer_dashboard - Copy" src="https://github.com/user-attachments/assets/7f884bc2-6676-4173-bc39-4f966baf3994" />
+<img width="663" height="371" alt="Customer_dashboard" src="https://github.com/user-attachments/assets/24414c05-0301-405f-9f35-67ce6f1d3501" />
+
 
 
 Key Insights
@@ -90,7 +91,8 @@ Year Insight
 ### Product Analysis
 Product revenue contribution and performance against targets.
 
-<img width="668" height="376" alt="Product_dashboard" src="https://github.com/user-attachments/assets/88d7b970-5049-4919-8467-e36c965ebde3" />
+<img width="662" height="370" alt="Product_dashboard" src="https://github.com/user-attachments/assets/9b2eaa36-9242-4917-9c74-bb7db3d1e1dd" />
+
 
 
 Key Insights
@@ -115,7 +117,9 @@ Performance tracking can inform incentive optimization.
 
 ### Retention Analysis
 
-<img width="664" height="373" alt="new-returning customers dsahboard" src="https://github.com/user-attachments/assets/31250f9b-9a88-4921-9229-b5327a9685d5" />
+<img width="663" height="371" alt="new-returning customers dsahboard" src="https://github.com/user-attachments/assets/4c2f0ce0-4804-4f14-977d-ab578d09cbdf" />
+
+
 
 
 Insights
