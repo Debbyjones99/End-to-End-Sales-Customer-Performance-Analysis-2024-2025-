@@ -24,4 +24,26 @@ The analysis focuses on identifying business growth patterns, performance declin
 - Customer Segmentation
 - Retention Logic
 
+## Executive Dashboard
+This dashboard provides a high-level overview of total business performance across June 2024 – June 2025.
+
+Key Metrics
+- Total Revenue: ₦112.7M
+- Total Orders: 45K
+- Total Customers: 1,462
+- AOV: ₦7.51K
+- Top City: Jos
+- Top User: User001
+
+Year Comparison Insight
+
+Although the dashboard shows overall performance, further analysis revealed:
+- 2024 Revenue: ₦63.7M
+- 2025 Revenue: ₦48.9M
+- Revenue declined by 23.5% in 2025
+- Orders dropped by 20%
+
+This indicates performance slowdown in 2025 despite strong retention.
+
+
 
