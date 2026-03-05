@@ -7,21 +7,21 @@ The analysis focuses on identifying business growth patterns, performance declin
 
 # Business Objectives
 - Identify primary revenue drivers
--	Analyze customer value distribution
-	•	Evaluate product contribution using Pareto analysis
-	•	Assess internal user performance
-	•	Measure customer retention vs acquisition
-	•	Compare 2024 vs 2025 business performance
+- Analyze customer value distribution
+- Evaluate product contribution using Pareto analysis
+- Assess internal user performance
+- Measure customer retention vs acquisition
+- Compare 2024 vs 2025 business performance
 
 
 
 # Tools & Techniques
-	•	Power BI
-	•	DAX (Advanced measures: LTV, Ranking, Cumulative Revenue, MoM Growth)
-	•	Star Schema Data Modeling
-	•	KPI Development
-	•	Pareto (80/20) Analysis
-	•	Customer Segmentation
-	•	Retention Logic
+- Power BI
+- DAX (Advanced measures: LTV, Ranking, Cumulative Revenue, MoM Growth)
+- Star Schema Data Modeling
+- KPI Development
+- Pareto (80/20) Analysis
+- Customer Segmentation
+- Retention Logic
 
 
