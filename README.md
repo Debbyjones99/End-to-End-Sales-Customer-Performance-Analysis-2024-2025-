@@ -106,3 +106,38 @@ Insights
 - New acquisition dropped drastically.
 
  Growth stagnation in 2025 was caused by low acquisition, not poor retention.
+
+## Key Findings
+
+ ### Pareto Insights
+-	A small percentage of customers and products generated the majority of total revenue, confirming the Pareto (80/20) principle.
+-	Mid-value customers (₦70K–₦150K) contributed over 68% of total revenue, making them a critical revenue segment.
+-	Revenue was highly concentrated among a limited group of customers, creating potential risk if these customers churn.
+
+## Business Performance Insights
+-	Customer retention remained very strong (96%), indicating effective customer relationship management.
+-	However, 2025 revenue declined due to weak new customer acquisition, suggesting growth was overly dependent on existing customers.
+
+## Recommendations
+
+1. Improve Customer Acquisition
+Revenue growth slowed in 2025 because new customer acquisition dropped despite strong retention. Introducing clear acquisition targets and expansion strategies can drive sustainable revenue growth.
+
+2. Protect High-Value Products
+Top-performing products should maintain consistent quality, availability, and supply, while underperforming products should be reviewed for pricing, demand, or positioning issues.
+
+3. Strengthen High-Value Customer Engagement
+Implement loyalty programs, personalized engagement, or recognition initiatives to retain top revenue contributors and reduce churn risk.
+
+4. Introduce Performance-Based Incentives
+Align internal user incentives with revenue targets, customer acquisition, and retention goals to motivate balanced business growth.
+
+What This Project Demonstrates
+-	End-to-end Business Intelligence project execution
+-	Data modeling using a star schema
+-	Advanced DAX calculations (ranking, cumulative revenue, targets, LTV)
+-	Executive-level dashboard storytelling
+-	Pareto (80/20) analysis for product and customer contribution
+-	Customer retention vs acquisition analysis
+-	Data quality validation and investigation
+
