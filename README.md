@@ -96,7 +96,7 @@ Key Insights
 Performance tracking can inform incentive optimization.
 
 
-## Retention Dashboard
+### Retention Dashboard
 
 <img width="587" height="329" alt="New-eturning-Customers_dashboard" src="https://github.com/user-attachments/assets/f99fa34f-64fe-4153-8524-0e5fb9b46fb6" />
 
