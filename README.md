@@ -163,7 +163,7 @@ Align internal user incentives with revenue targets, customer acquisition, and r
 During analysis, inconsistencies were discovered in customer name entries, which created duplicate customer identities.  
 Customer ID was therefore used as the primary identifier to ensure accurate revenue attribution.
 
-##Contact
+## Contact
 
 Open to Data Analyst opportunities.
 
