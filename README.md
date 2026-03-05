@@ -1,6 +1,22 @@
 # End-to-End Sales & Customer Performance Analysis (2024–2025)
 This project analyzes retail sales data using Power BI to identify revenue drivers, customer value distribution, product performance, and internal user impact on business growth.
 
+## Table of Contents
+- Project Overview  
+- Business Objectives  
+- Dataset  
+- Tools &   Methodology  
+- Executive Dashboard  
+- Customer Analysis  
+- Product Analysis  
+- User Performance  
+- ⁠Retention Analysis 
+- Key Findings  
+- Recommendations  
+- ⁠Project demonstrations 
+- Data Limitation  
+- Contact
+
 ## Project Overview
 This project analyzes two years of retail sales data (June 2024 – June 2025) to uncover revenue drivers, customer behavior, product contribution, internal performance, and retention trends using Power BI.
 
@@ -53,7 +69,7 @@ Although the dashboard shows overall performance, further analysis revealed:
 This indicates performance slowdown in 2025 despite strong retention.
 
 
-### Customer Dashboard
+### Customer Analysis
 Customer value distribution, segmentation, and geographic contribution.
 
 <img width="668" height="372" alt="Customer_dashboard - Copy" src="https://github.com/user-attachments/assets/7f884bc2-6676-4173-bc39-4f966baf3994" />
@@ -71,7 +87,7 @@ Year Insight
 
  Strong retention, weak acquisition.
 
-### Product Dashboard
+### Product Analysis
 Product revenue contribution and performance against targets.
 
 <img width="668" height="376" alt="Product_dashboard" src="https://github.com/user-attachments/assets/88d7b970-5049-4919-8467-e36c965ebde3" />
@@ -84,7 +100,7 @@ Key Insights
 
 Revenue concentration risk exists at product level.
 
-### User Dashboard
+### User Analysis
 <img width="667" height="371" alt="user_dashboard" src="https://github.com/user-attachments/assets/efdc6139-d15d-4c5a-88d1-0c54289c6760" />
 
 
@@ -97,7 +113,7 @@ Key Insights
 Performance tracking can inform incentive optimization.
 
 
-### Retention Dashboard
+### Retention Analysis
 
 <img width="664" height="373" alt="new-returning customers dsahboard" src="https://github.com/user-attachments/assets/31250f9b-9a88-4921-9229-b5327a9685d5" />
 
@@ -143,3 +159,13 @@ Align internal user incentives with revenue targets, customer acquisition, and r
 -	Customer retention vs acquisition analysis
 -	Data quality validation and investigation
 
+## Data Limitation
+During analysis, inconsistencies were discovered in customer name entries, which created duplicate customer identities.  
+Customer ID was therefore used as the primary identifier to ensure accurate revenue attribution.
+
+##Contact
+
+Open to Data Analyst opportunities.
+
+Email:deborahjonah06@gmail.come 
+LinkedIn: linkedin.com/in/yourname
