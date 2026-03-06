@@ -118,8 +118,9 @@ Performance tracking can inform incentive optimization.
 
 ### Retention Analysis
 
-<img width="663" height="371" alt="new-returning customers dsahboard" src="https://github.com/user-attachments/assets/4c2f0ce0-4804-4f14-977d-ab578d09cbdf" />
+<img width="670" height="384" alt="retention 2024" src="https://github.com/user-attachments/assets/ccaadf31-84d0-46a2-ba1d-b204444a0041" />
 
+<img width="672" height="375" alt="retention 2025" src="https://github.com/user-attachments/assets/d93ee4fd-a6c5-4622-bf94-f6aba64cf8c3" />
 
 
 
