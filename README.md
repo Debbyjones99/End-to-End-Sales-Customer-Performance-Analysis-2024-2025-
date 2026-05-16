@@ -45,6 +45,7 @@ The analysis focuses on identifying business growth patterns, performance declin
 ## Dashboard Overview
 
 ### Executive Dashboard
+<P></P>
 This dashboard provides a high-level overview of total business performance across June 2024 – June 2025.
 <img width="662" height="372" alt="Executive_dashboard" src="https://github.com/user-attachments/assets/35b0eb45-2530-471b-abcc-d41af5cbf115" />
 
@@ -71,7 +72,7 @@ This indicates performance slowdown in 2025 despite strong retention.
 
 ### Customer Analysis
 Customer value distribution, segmentation, and geographic contribution.
-
+<P></P>
 <img width="663" height="371" alt="Customer_dashboard" src="https://github.com/user-attachments/assets/24414c05-0301-405f-9f35-67ce6f1d3501" />
 
 
@@ -90,7 +91,7 @@ Year Insight
 
 ### Product Analysis
 Product revenue contribution and performance against targets.
-
+<P></P>
 <img width="662" height="370" alt="Product_dashboard" src="https://github.com/user-attachments/assets/9b2eaa36-9242-4917-9c74-bb7db3d1e1dd" />
 
 
@@ -103,6 +104,7 @@ Key Insights
 Revenue concentration risk exists at product level.
 
 ### User Analysis
+<P></P>
 <img width="658" height="372" alt="user_dashboard" src="https://github.com/user-attachments/assets/7e710d1e-da57-49f0-9a00-05678e89d613" />
 
 
@@ -117,7 +119,7 @@ Performance tracking can inform incentive optimization.
 
 
 ### Retention Analysis
-
+<P></P>
 <img width="670" height="384" alt="retention 2024" src="https://github.com/user-attachments/assets/ccaadf31-84d0-46a2-ba1d-b204444a0041" />
 
 <img width="672" height="375" alt="retention 2025" src="https://github.com/user-attachments/assets/d93ee4fd-a6c5-4622-bf94-f6aba64cf8c3" />
